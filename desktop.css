@@ -78,8 +78,9 @@ font-family: sans-serif;
     }
     .profile_picture {
         width:80%;
-        border-radius: 2px;
         margin-left: none;
+        border-color: black;
+        border-style: solid;
     }
     .header-title {
         font-size: 50px;
